@@ -28,11 +28,7 @@ Sou um **QA Analyst** com experiência em **automação de testes** utilizando *
 
 Aqui estão alguns dos projetos que desenvolvi utilizando essas tecnologias:
 
-- [Projeto de Automação com Cypress](https://github.com/JulioGama/projeto-cypress)
-- [Testes de API com Postman](https://github.com/JulioGama/testes-api-postman)
-- [Automação de Navegação com Playwright](https://github.com/JulioGama/projeto-playwright)
-- [BDD com Gherkin e Cucumber](https://github.com/JulioGama/projeto-bdd-gherkin)
-- [Automação com Robot Framework](https://github.com/JulioGama/projeto-robot-framework)
+- [Projetos](https://github.com/JulioGama?tab=repositories)
 
 ## 📬 Me encontre em:
 - [LinkedIn](https://www.linkedin.com/in/julio-gama-a058b6215/)
