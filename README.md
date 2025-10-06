@@ -35,4 +35,4 @@ Aqui estão alguns dos projetos que desenvolvi utilizando essas tecnologias:
 - [Automação com Robot Framework](https://github.com/JulioGama/projeto-robot-framework)
 
 ## 📬 Me encontre em:
-- [LinkedIn](https://www.linkedin.com/in/juliogama)
+- [LinkedIn](https://www.linkedin.com/in/julio-gama-a058b6215/)
